@@ -12,3 +12,5 @@
 3. Toolkit
 4. RTKQuery
 5. Tailwind
+
+Ссылка на [GitHub pages](https://aliakseiyausiuk.github.io/GitHub-profile/)
